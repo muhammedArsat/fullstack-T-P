@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+}
+.p1 {
+  font-family: "Josefin Sans", sans-serif;
+}
+.img-hover{
+  transition: transform 0.3s;
+}
+.img-hover:hover{
+  transform: scale(1.1);
+}
